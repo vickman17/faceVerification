@@ -1,0 +1,7 @@
+{
+  "name": "faceVerification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
